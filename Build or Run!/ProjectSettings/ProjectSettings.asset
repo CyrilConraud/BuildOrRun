@@ -582,11 +582,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 9392f982-d747-4a1b-945a-9bf0d0b0be3d
-  projectName: Build or Run! (1)
+  projectName: Build or Run!
   organizationId: ggsh
   cloudEnabled: 0
   enableNewInputSystem: 0
